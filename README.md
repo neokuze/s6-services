@@ -20,3 +20,5 @@ This repository has been created for the specific purpose of using the openrazer
 All services in this repository are licensed under the GNU General Public License version 3 (GNU GPL v3). Please review the LICENSE file for more details.
 
 ---
+## Listed:
+openrazer-daemon -> openrazer-s6
